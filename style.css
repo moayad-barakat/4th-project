@@ -1,0 +1,119 @@
+
+
+/* START SECTION 1 */
+
+.container-1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.div1{
+    border: solid whitesmoke;
+    height: 250px;
+    width: 500px;
+}
+
+.div2{
+    border: solid purple;
+    background-color: purple;
+    height: 250px;
+    width: 500px;
+}
+
+.img1{
+    width: 180px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.h1-s1{
+    margin-left: 260px;
+    margin-top: -160px;
+}
+
+.p1-s1{
+    margin-left: 240px;
+    width: 200px;
+    line-height: 28px;
+    margin-top: 40px;
+}
+
+.icons1{
+    font-size: 25px;
+    margin-left: 270px;
+}
+
+/* END SECTION 1 */
+
+
+/* START SECTION 2 */
+
+.container-2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.div3{
+    border: solid blue;
+    background-color: blue;
+    color: white;
+    height: 250px;
+    
+}
+
+.div4{
+    border: solid green;
+    background-color: green;
+    color: white;height: 250px;
+}
+
+.h2-s1{
+    margin-left: 280px;
+    margin-top: -150px;
+}
+
+.p2-s1{
+    width: 250px;
+  line-height: 25px;
+  margin-left: 250px;
+
+  }
+
+  /* END SECTION 2 */
+
+
+  /* START SECTION 3 */
+
+.container-3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+  .div5{
+    border: solid purple;
+    background-color: purple;
+    color: white;
+    height: 250px;
+    width: 500px;
+  }
+
+  .div6{
+    border: solid red;
+    background-color: red;
+    color: white;
+    height: 250px;
+    width: 500px;
+  }
+
+  .h3-s1{
+    margin-left: 280px;
+    margin-top: -170px;
+  }
+
+  .p3-s1{
+    width: 200px;
+line-height: 28px;
+margin-left: 280px;
+  }
